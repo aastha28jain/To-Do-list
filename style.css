@@ -1,0 +1,33 @@
+body{
+    background-color: #74bd74;
+    align-items: center;
+}
+
+.container{
+    width: 360px;
+    padding: 33px 33px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 33vw;
+    margin-top: 33vh;
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(149, 228, 149);
+    outline: none;
+    font-size: 19px;
+}
+
+button{
+    width: 60px;
+    height: 41px;
+    background-color: #74bd74;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+}
